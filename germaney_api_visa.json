@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "type": "Student Visa",
+    "definition": "It is the standard German student visa for international students who are enrolled in a full-time university program.",
+    "blocked_account": "Yes",
+    "fees": "75€",
+    "processing_time": "6-12 weeks or may take up to 4 months",
+    "valid_for": "With a German student visa, you'll be able to remain in Germany for 3 months. Within this period, you'll be required to apply for a residence permit to study",
+    "right_to_work": "Allowed",
+    "language_proficiency_requirement": "Depends on the course type (English/German) is required"
+  },
+  {
+    "id": 2,
+    "type": "Student Applicant Visa",
+    "definition": "This visa is issued to those applicants who want to take admission at a German university by visiting the institutes personally. The students have to submit the proof of entitlement to get admission and/or conditional acceptance at a university in Germany.",
+    "blocked_account": "Yes",
+    "fees": "80€",
+    "processing_time": "15-30 days",
+    "valid_for": "Max. 9 months, can be changed into a student visa after getting acceptance letter from the university",
+    "right_to_work": "Not allowed",
+    "language_proficiency_requirement": "German language"
+  }
+]
